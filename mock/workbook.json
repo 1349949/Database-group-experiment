@@ -1,0 +1,164 @@
+[
+	{
+		"author": "kun",
+		"content": "查询01课程比02课程成绩高的学生的信息及课程分数",
+		"timestamp": 932378408742,
+		"title": "实验1",
+		"importance": 1,
+		"status": "draft",
+		"id": 1
+	},
+	{
+		"author": "kun",
+		"content": "查询同时存在' 01 '课程和' 02 '课程的情况",
+		"timestamp": 932378408742,
+		"title": "实验2",
+		"importance": 1,
+		"status": "draft",
+		"id": 2
+	},
+	{
+		"author": "kun",
+		"content": "查询存在01课程但可能不存在02课程的情况(不存在时显示为 null )",
+		"timestamp": 932378408742,
+		"title": "实验3",
+		"importance": 1,
+		"status": "draft",
+		"id": 3
+	},
+	{
+		"author": "kun",
+		"content": "查询不存在01课程但存在02课程的情况",
+		"timestamp": 932378408742,
+		"title": "实验4",
+		"importance": 1,
+		"status": "draft",
+		"id": 4
+	},
+	{
+		"author": "kun",
+		"content": "查询平均成绩大于等于60分的同学的学生编号和学生姓名和平均成绩",
+		"timestamp": 932378408742,
+		"title": "实验5",
+		"importance": 1,
+		"status": "draft",
+		"id": 5
+	},
+	{
+		"author": "kun",
+		"content": "查询在 SC 表存在成绩的学生信息",
+		"timestamp": 932378408742,
+		"title": "实验6",
+		"importance": 1,
+		"status": "draft",
+		"id": 6
+	},
+	{
+		"author": "kun",
+		"content": "查询所有同学的学生编号、学生姓名、选课总数、所有课程的成绩总和",
+		"timestamp": 932378408742,
+		"title": "实验7",
+		"importance": 1,
+		"status": "draft",
+		"id": 7
+	},
+	{
+		"author": "kun",
+		"content": "查有成绩的学生信息",
+		"timestamp": 932378408742,
+		"title": "实验8",
+		"importance": 1,
+		"status": "draft",
+		"id": 8
+	},
+	{
+		"author": "kun",
+		"content": "查询「李」姓老师的数量",
+		"timestamp": 932378408742,
+		"title": "实验9",
+		"importance": 1,
+		"status": "draft",
+		"id": 9
+	},
+	{
+		"author": "kun",
+		"content": "查询学过「张三」老师授课的同学的信息",
+		"timestamp": 932378408742,
+		"title": "实验10",
+		"importance": 1,
+		"status": "draft",
+		"id": 10
+	},
+	{
+		"author": "kun",
+		"content": "查询没有学全所有课程的同学的信息",
+		"timestamp": 932378408742,
+		"title": "实验11",
+		"importance": 1,
+		"status": "draft",
+		"id": 11
+	},
+	{
+		"author": "kun",
+		"content": "查询至少有一门课与学号为 01 的同学所学相同的同学的信息 ",
+		"timestamp": 932378408742,
+		"title": "实验12",
+		"importance": 1,
+		"status": "draft",
+		"id": 12
+	},
+	{
+		"author": "kun",
+		"content": "查询没学过'张三'老师讲授的任一门课程的学生姓名",
+		"timestamp": 932378408742,
+		"title": "实验13",
+		"importance": 1,
+		"status": "draft",
+		"id": 13
+	},
+	{
+		"author": "kun",
+		"content": "查询两门及其以上不及格课程的同学的学号，姓名及其平均成绩",
+		"timestamp": 932378408742,
+		"title": "实验14",
+		"importance": 1,
+		"status": "draft",
+		"id": 14
+	},
+	{
+		"author": "kun",
+		"content": "检索 01 课程分数小于 60，按分数降序排列的学生信息",
+		"timestamp": 932378408742,
+		"title": "实验15",
+		"importance": 1,
+		"status": "draft",
+		"id": 15
+	},
+	{
+		"author": "kun",
+		"content": "按平均成绩从高到低显示所有学生的所有课程的成绩以及平均成绩",
+		"timestamp": 932378408742,
+		"title": "实验16",
+		"importance": 1,
+		"status": "draft",
+		"id": 16
+	},
+	{
+		"author": "kun",
+		"content": "查询各科成绩最高分、最低分和平均分：以如下形式显示：课程ID，课程 name，最高分，最低分，平均分，及格率，中等率，优良率，优秀率.及格为>=60，中等为：70-80，优良为：80-90，优秀为：>=90 要求输出课程号和选修人数，查询结果按人数降序排列，若人数相同，按课程号升序排列",
+		"timestamp": 932378408742,
+		"title": "实验17",
+		"importance": 1,
+		"status": "draft",
+		"id": 17
+	},
+	{
+		"author": "kun",
+		"content": "统计各科成绩各分数段人数：课程编号，课程名称，[100-85]，[85-70]，[70-60]，[60-0] 及所占百分比",
+		"timestamp": 932378408742,
+		"title": "实验18",
+		"importance": 1,
+		"status": "draft",
+		"id": 18
+	}
+]
